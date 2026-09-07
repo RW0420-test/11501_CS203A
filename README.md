@@ -8,4 +8,4 @@
 
 ## Repository description 
 
-資料結構
+資料結構簡介與基本概念
